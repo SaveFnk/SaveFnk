@@ -3,7 +3,7 @@
 # ⚡️ About Me:
 👋🏻 Hi, I am an Italian guy🍕🤌🏻<br>👨🏻‍🎓Computer engineering student at the University of Padua🇮🇹<br>
 👨🏻‍💻 Software developer passionate about the world of DBs<br>
-💼 Ex-Intern @ [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#) | Intern @ [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) <br>
+💼 Intern [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) | Ex-Intern [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#) <br>
 🏋🏻GymBro <br>
 
 
